@@ -22,3 +22,5 @@ A type-safe HTTP client for Android and Java.
 An image loading and caching library for Android focused on smooth scrolling.
 - [Dagger 2](https://github.com/google/dagger)
 A fast dependency injector for Android and Java
+- [JaCoCo](https://github.com/arturdm/jacoco-android-gradle-plugin)
+Gradle plugin that creates JaCoCo test reports for Android unit tests
