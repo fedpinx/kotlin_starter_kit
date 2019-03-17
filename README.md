@@ -1,6 +1,5 @@
 # Kotlin Starter Kit
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/eac8ba138698423f921e0ed792ea798b)](https://www.codacy.com/app/pintalubaf/kotlin-starter-kit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pintalubaf/kotlin-starter-kit&amp;utm_campaign=Badge_Grade)
-[![codecov](https://codecov.io/gh/pintalubaf/kotlin-starter-kit/branch/master/graph/badge.svg)](https://codecov.io/gh/pintalubaf/kotlin-starter-kit)
 [![Build Status](https://travis-ci.com/pintalubaf/kotlin-starter-kit.svg?branch=master)](https://travis-ci.com/pintalubaf/kotlin-starter-kit)
 
 Kotlin Starter Kit for Android Development with AndroidX.
